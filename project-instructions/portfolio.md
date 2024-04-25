@@ -435,33 +435,7 @@ There are a couple id and class attributes in your `portfolio.html` file that ar
 - **6c)** Now add some styling that is unique to portfolio. The CSS rules below contain composite rules, which we haven't covered in class, so feel free to simply paste this at the very bottom of the `style.css` file:
 
   ```CSS
-           /* portfolio styles */
-           .content h1 {
-               color: black;
-           }
-
-           #portfolio {
-               list-style-type: none;
-               padding-left: 0;
-           }
-
-           #portfolio li {
-               background: #fff;
-               padding: 10px;
-               border-radius: 10px;
-               margin-bottom: 10px;
-           }
-
-           #portfolio li:hover {
-               background: #eee;
-           }
-
-           #portfolio a {
-               text-decoration: none;
-               color: #454545;
-           }
-  ```
-
+           
 ### **Extra Challenge**
 
 Here's some other things to try:
